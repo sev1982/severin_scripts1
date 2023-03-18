@@ -1,5 +1,5 @@
 #!/bin/bash
-# Created by Abraão Silva
+# Created by severin kouemo
 # Install docker in centos
 
 # Remove any old versions
